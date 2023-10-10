@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/ABAP_SQL_Beautifier_Feature_0.1.0.202310091801.jar" id="ABAP_SQL_Beautifier_Feature" version="0.1.0.202310091801">
+      <category name="ABAP SQL Beautifier"/>
+   </feature>
+   <category-def name="ABAP SQL Beautifier" label="ABAP SQL Beautifier"/>
+</site>
