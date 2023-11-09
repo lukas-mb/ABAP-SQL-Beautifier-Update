@@ -3,5 +3,8 @@
    <feature url="features/ABAP_SQL_Beautifier_Feature_0.1.0.202310131641.jar" id="ABAP_SQL_Beautifier_Feature" version="0.1.0.202310131641">
       <category name="ABAP SQL Beautifier"/>
    </feature>
+   <feature url="features/ABAP_SQL_Beautifier_Feature_0.1.1.202311091734.jar" id="ABAP_SQL_Beautifier_Feature" version="0.1.1.202311091734">
+      <category name="ABAP SQL Beautifier"/>
+   </feature>
    <category-def name="ABAP SQL Beautifier" label="ABAP SQL Beautifier"/>
 </site>
